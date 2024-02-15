@@ -1,7 +1,6 @@
 # Tor-Webserver
 
 This is just a GUI to start or stop your server and save/delete your HTML, CSS or Javascript.
-It is only a beta version, the alpha version offers much more features and stability.
 
 Do the following command to have the project in your local directory (User Path)
 ```
